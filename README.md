@@ -1,6 +1,6 @@
 <div style="font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.6;">
 
-<h2>💫 About Me!</h2>
+<h2>💫 About Me</h2>
 
 I’m a fresher software engineer building full-stack applications and automation tools, with a focus on solving practical, real-world problems. I enjoy turning complex challenges into simple, usable solutions, experimenting with web automation, data scraping, and intelligent workflows, and continuously learning to make my projects efficient, reliable, and impactful.
 
