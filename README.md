@@ -2,22 +2,7 @@
 
 <h2>💫 About Me</h2>
 
-<p>Building <strong>full-stack apps</strong> & <strong>intelligent automation</strong> that solve real-world problems.</p>
-
-<p>Open to collaborations in <strong>AI / Computer Vision</strong>, <strong>Web Automation</strong>, and <strong>Data-driven Systems</strong>.</p>
-
-<p>💻 <strong>Skills & Learning:</strong></p>
-<p>🚀 Python (full-stack & automation)</p>
-<p>🤖 AI & Deep Learning (Computer Vision, Practical ML)</p>
-<p>🌐 Web Development (FastAPI, REST APIs, Frontend Basics)</p>
-<p>☁️ Cloud & Scalable System Design</p>
-<p>🔒 Cybersecurity & Secure Software Practices</p>
-
-<p>Ask me about <strong>Python, FastAPI, web scraping, automation, and building prototypes</strong>.</p>
-
-<p><strong>Fun fact:</strong> I love turning complex problems into <strong>simple, easy-to-use solutions</strong> that actually make a difference.</p>
-
-</div>
+I’m a fresher software engineer building full-stack applications and automation tools, with a focus on solving practical, real-world problems. I enjoy turning complex challenges into simple, usable solutions, experimenting with web automation, data scraping, and intelligent workflows, and continuously learning to make my projects efficient, reliable, and impactful.
 
 
 
