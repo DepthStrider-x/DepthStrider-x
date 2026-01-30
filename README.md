@@ -2,30 +2,23 @@
 
 <h2>💫 About Me</h2>
 
-<p><strong>I am currently working on:</strong><br>
-Practical <strong>full-stack applications</strong> and <strong>intelligent automation tools</strong> that tackle real-world problems and explore innovative solutions.</p>
+<p>Building <strong>full-stack apps</strong> & <strong>intelligent automation</strong> that solve real-world problems.</p>
 
-<p><strong>I am looking to collaborate on:</strong><br>
-Open-source projects in <strong>AI / Computer Vision</strong>, smart systems, and <strong>data-driven automation</strong> that make technology more reliable, inclusive, and impactful.</p>
+<p>Open to collaborations in <strong>AI / Computer Vision</strong>, <strong>Web Automation</strong>, and <strong>Data-driven Systems</strong>.</p>
 
-<p><strong>I am looking for help with:</strong><br>
-Advanced <strong>AI model deployment</strong> at scale, <strong>cloud architecture</strong>, ML-ops workflows, and robust backend design for real-world applications.</p>
+<p>💻 <strong>Skills & Learning:</strong></p>
+<p>🚀 Python (full-stack & automation)</p>
+<p>🤖 AI & Deep Learning (Computer Vision, Practical ML)</p>
+<p>🌐 Web Development (FastAPI, REST APIs, Frontend Basics)</p>
+<p>☁️ Cloud & Scalable System Design</p>
+<p>🔒 Cybersecurity & Secure Software Practices</p>
 
-<p><strong>I am currently learning:</strong><br>
-• <strong>Artificial Intelligence & Deep Learning</strong> (computer vision, multimodal models, practical applications)<br>
-• <strong>Scalable Systems & Cloud Architecture</strong> for real-world deployments<br>
-• <strong>Cybersecurity & Secure Software Practices</strong><br>
-• <strong>Human-Centered Full-Stack Development & UX</strong><br>
-• <strong>Emerging Technologies</strong>: Decentralized Systems, Blockchain, Intelligent Automation
-</p>
+<p>Ask me about <strong>Python, FastAPI, web scraping, automation, and building prototypes</strong>.</p>
 
-<p><strong>Ask me about:</strong><br>
-Python development, computer vision, automation & scraping, REST APIs (<strong>FastAPI</strong>), Git/GitHub workflows, and turning ambitious ideas into working prototypes.</p>
-
-<p><strong>Fun fact:</strong><br>
-I love solving real-life problems by designing <strong>simple, easy-to-use solutions</strong> that actually make a difference.</p>
+<p><strong>Fun fact:</strong> I love turning complex problems into <strong>simple, easy-to-use solutions</strong> that actually make a difference.</p>
 
 </div>
+
 
 
 
